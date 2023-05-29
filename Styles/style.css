@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url("./assets/moon-2048727_1920.jpg");
+    background-image: url("../assets/moon-2048727_1920.jpg");
     background-size: cover;
 }
 
@@ -220,7 +220,6 @@ footer {
         background-attachment: fixed;
         background-size: cover;
         background-position: 50% 50%;
-        background-color: #000000;
     }
 
     h2 {

@@ -63,7 +63,7 @@ async function loadCharacters(url) {
 
                 const gender = document.createElement("span")
                 gender.className = "character-details"
-                gender.innerText = `Genero: ${convertGender(character.gender)}`
+                gender.innerText = `Gênero: ${convertGender(character.gender)}`
 
                 const birthYear = document.createElement("span")
                 birthYear.className = "character-details"

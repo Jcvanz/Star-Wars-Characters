@@ -220,6 +220,7 @@ footer {
         background-attachment: fixed;
         background-size: cover;
         background-position: 50% 50%;
+        background-color: #000000;
     }
 
     h2 {

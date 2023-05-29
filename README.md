@@ -6,5 +6,3 @@ Esse projetinho foi desenvolvido atraves do curso Profissõa Programador, onde o
 cards dos integrantes do filme. Ele foi desenvolvido apenas com HTML, CSS e JavaScript puro, utilizando uma API para que obtivessemos as informações de cada personagem.
 
 Link 👉 https://starwarscharacterss.netlify.app/
-
-![Uploading image.png…]()

@@ -1,5 +1,5 @@
 @import url('https://fonts.cdnfonts.com/css/star-wars');
-
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -209,8 +209,7 @@ footer {
 }
 
 .character-details {
-    font-family: fantasy;
-    font-size: 1.5rem;
+    font-family: 'Bebas Neue', sans-serif;    font-size: 1.5rem;
     font-weight: lighter;
     color: #865f42;
 }
@@ -240,7 +239,7 @@ footer {
     }
 
     .character-details {
-        font-family: fantasy;
+        font-family: 'Bebas Neue', sans-serif;
         font-size: 1.2rem;
         font-weight: lighter;
         color: #865f42;

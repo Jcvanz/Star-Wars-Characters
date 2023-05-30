@@ -238,4 +238,11 @@ footer {
     .modal-content {
         width: 40vh;
     }
+
+    .character-details {
+        font-family: fantasy;
+        font-size: 1.2rem;
+        font-weight: lighter;
+        color: #865f42;
+    }
 }

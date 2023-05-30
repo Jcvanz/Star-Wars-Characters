@@ -209,7 +209,8 @@ footer {
 }
 
 .character-details {
-    font-family: 'Bebas Neue', sans-serif;    font-size: 1.5rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
     font-weight: lighter;
     color: #865f42;
 }
@@ -235,13 +236,7 @@ footer {
     }
 
     .modal-content {
-        width: 40vh;
-    }
-
-    .character-details {
-        font-family: 'Bebas Neue', sans-serif;
-        font-size: 1.2rem;
-        font-weight: lighter;
-        color: #865f42;
+        width: 80vw;
+        height: 60vh;
     }
 }
